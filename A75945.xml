@@ -1,0 +1,484 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue or accidental discourse betwixt Mr. Alderman Abell, and Richard Kilvert, the two maine projectors for wine, and also Aldermans Abels wife, &amp;c. Contayning their first manner of their acquaintance, how they began to contrive the patent it selfe, how they obtayned it, and who drew the patent. Also in what state they now stand in, and how they accuse and raile at each other with invective speeches, &amp;c. With the manner and fashion how projectors and patentees have rod a tilting in a Parliament time, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75945</idno>
+            <idno type="STC">Wing A72</idno>
+            <idno type="STC">Wing D1367</idno>
+            <idno type="STC">Thomason E156_16</idno>
+            <idno type="STC">ESTC R6423</idno>
+            <idno type="EEBO-CITATION">99872986</idno>
+            <idno type="PROQUEST">99872986</idno>
+            <idno type="VID">156876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156876)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E156[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue or accidental discourse betwixt Mr. Alderman Abell, and Richard Kilvert, the two maine projectors for wine, and also Aldermans Abels wife, &amp;c. Contayning their first manner of their acquaintance, how they began to contrive the patent it selfe, how they obtayned it, and who drew the patent. Also in what state they now stand in, and how they accuse and raile at each other with invective speeches, &amp;c. With the manner and fashion how projectors and patentees have rod a tilting in a Parliament time, &amp;c.</title>
+                  <author>Heywood, Thomas, d. 1641.</author>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed also in the same yeare of grace. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wood cut illustrations on t.p. and p. 8.</note>
+                  <note>Attributed to Thomas Heywood in Wrenn catalogue.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abell, William, fl. 1640.</term>
+               <term>Kilvert, Richard, d. 1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2007-07</date>
+            <label>Jonathan Blaney</label>Sampled and proofread</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156876:1" rendition="simple:additions"/>
+            <p>A Dialogue or accidental diſcourſe Betwixt Mr. Alderman <hi>Abell,</hi> and <hi>Richard</hi> Kilvert, the two maine Projectors for Wine, and alſo Aldermans <hi>Abels</hi> wife, &amp;c.</p>
+            <p>Contayning their firſt manner of their acquaintance, how they began to contrive the Patent it ſelfe, how they obtayned it, and who drew the patent.</p>
+            <p>
+               <hi>Alſo in what ſtate they now ſtand in, and how they accuſe and raile at each other with invective ſpeeches, &amp;c.</hi>
+            </p>
+            <p>With the manner and faſhion how Projectors and Patentees have rod a Tilting in a Parlament time, &amp;c.</p>
+            <figure>
+               <head>A Pattent for Wine</head>
+               <figDesc>two men, one holding a scroll</figDesc>
+            </figure>
+            <p>Printed alſo in the ſame yeare of grace. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:156876:2"/>
+            <head>A Dialogue or accidentall diſcourſe be<g ref="char:EOLhyphen"/>twixt Mr. Alderman <hi>Abel,</hi> and Mr. <hi>Richard Kilvert,</hi> two maine Projectors, &amp;c.</head>
+            <sp>
+               <speaker>Kilvert.</speaker>
+               <p>MAſter Alderman <hi>Abell,</hi> as I take it.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>And you Mr <hi>Richard K<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lvert,</hi> or I much miſtake my ſelfe; good morrow.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>The like to you: and I hope we may live to ſée many good dayes hereafter, and though neyther of us have need much to complaine of the Time that's paſt; yet who knowes but the future may prove better then the former, and that's a thing which I thinke both you and I, in our owne particulars, moſt ayme at. O maſter Alderman, I have bin a great gueſt to your houſe, I remember you kept then the Ship Taverne behind old Fiſh ſtreet.</p>
+            </sp>
+            <sp>
+               <speaker>Abel</speaker>
+               <p>I did indeed, honeſt Mr. <hi>Kilvert,</hi> and I thanke God I got a good eſtate there by retailing of wine, and by chance in digging a vault neere my ſeller, I found ſome what which the world ſhall never know of, if I had not found ſome hidden Treaſure in that Cardinals ſeller, I had never come to weare this gold chaine, with my thumbs under my girdle: and why are men ſparing in their youth, but to get an eſtate there by to ſpend the more freely in their age? But I pray Maſter <hi>Kilvert,</hi> what courſe doe you now take? or what Calling do you profeſſe or uſe?</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>Who I maſter Alderman, I do uſe no Calling, for mony comes into me without Calling or eyther bauling for: I tell you I ſtudy the ſeavenliberall Arts, and am well verſt in them all, but eſpecially in Logicke and Arethmetick, I have them <hi>ad unguem,</hi> I will tell you, I will never be aſhamed of it, I have now got ſo much craft, that I excell in cunning. The Theory and Practicke are both mine owne, nay I am ſo well inſtructed in both, that I dare profeſſe my ſelfe a Teacher in eyther.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Why, were you ever of any Vniverſity?</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>What tell you me of an Vniverſity? There are compa<g ref="char:EOLhyphen"/>ny of poore Schollers, and ſuffer Ballads to be made of them, a<g ref="char:EOLhyphen"/>las,
+<pb n="3" facs="tcp:156876:2"/>
+the height of their ambition is to be become ſome Schole-ma<g ref="char:EOLhyphen"/>ſter, or elſe ſome Vſhe in a Schoole to teach children to wright. I proſeſſe my ſelfe to be of the <hi>Vni<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> that's the World; and a Diſcipline that the Accademy was never acquainted with all.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>As how maſter <hi>Kilvert?</hi> I ever preferd the one Art of getting and keeping, above all the ſeaven liberall Sciences, for though prodigality be ſooner <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave at <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en parſimony, yet it is no way ſo profitable in my opinion: give me that Learning, which lines the bag, and that Rhetoricke that makes a ratling pocket.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>I ſir, (and I ſpeake in your eares while you have them) no matter by what indirect meanes the purchaſe comes, ſo wee may compaſſe the poſſeſſion, that they ſay, is eleven poynts in Law: what care I who the Plaintiffe be, ſo I the Defendant can main<g ref="char:EOLhyphen"/>tayne the fu<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te with his mony: Theſe are the rules that guide me, and the principles in thoſe Arts I profeſſe. I am waited upon three or foure houres in a morning before I riſe by divers Gentlemen to ſolicite their buſineſſe; and will not moove a foote unleſſe I have three or foure weighty peeces given me for a fee, Iudge and Iuſtice like, for I had ever anitching palme, my Clients ever feed mee largly, thoſe peeces made me ſpeake Lowder in the Iuſtices ears, for I knew I ſhould not be Iuſtice long.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>I ſhould be glad to be your Scholler, and make no doubt but in ſmal time to prove a good proficient: But I pray maſter <hi>Kilvert</hi> what uſe make you of your Logicke?</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>I le tell you maſter Alderman: By Logicke I can wrangle with Worth, intangle Truth, make a bad cauſe good, or a good cauſe bad: nay more, I can proove Chalke to be Cheeſe.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>As how, I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>As thus, that which is white is Cheeſe, now Chalke is white as Cheeſe is white: <hi>Ergo</hi> Chalke is Cheeſe.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>But was ever any ſo mad as to take Chalke for Cheeſe?</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>O yes, I my ſelfe before I came to ſerue my firſt maſter, have come into an Ale-houſe and cald for Cheeſe to my break faſt, and having then no mony to pay for't, my Hoſteſſe hath bin forſt to ſcore it up, and ſo ſhe hath tooke Chalke for Cheeſe.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>You are pleaſant M. <hi>Kilvert,</hi> but now to be more ſerious.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>Then thus, in ſteed of a Procurator, I am turn'd Pro<g ref="char:EOLhyphen"/>moter, and pry into the Lawes both Civil and Common, where no Delinquency of any note can ſcape me: and whether the perſon that is queſtioned be a Peccant or no, if I be not pleas'd, he can<g ref="char:EOLhyphen"/>not
+<pb n="4" facs="tcp:156876:3"/>
+ſcape thence unpuniſht, and by that meanes I have pickt many a ſimple Clients pocket: and in the Arches from being a Servant, I am now become an Arch-Solicitor, and by that meanes have admittance into all the Courts of iuſtice, where I have ſubordi<g ref="char:EOLhyphen"/>nate intelligencers, which I allow a groat a day throughout the yeare, that skrew themſelves into other mens cauſes, and affoord me materials ſufficient to worke upon: now, when I have caſt in my conceits to picke an hole in another mans Coate, or to find the leaſt flaw by which I may overthrow him or his for tunes, then is my Spirits animated, my peticranion is imployed to purpoſe, for my braine upon ſuch an occaſion is in the moſt able agitation: The very name of <hi>Kilvert</hi> makes men compound with my Client, if they do but heare that I haue a finger in it, or relliſh the Cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Tis true, you haue told me the matter, but not the meanes you worke by.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>To that I was comming, (had you not interrupted mee:) Then do I find out ſome one Iudge that hath bought his place at a deare rate, and he is eaſily corrupted, for as I have heard ſome of them ſay, (who died with a ieſt in his mouth) that if they buy deare, they muſt ſell deare: For I alwayes carry an Elixar about me, by which (if not quite fatuate) yet I can effaſcinate his ſenſes.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>As how I pray you Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>As thus, I can whiſper ſuch a charme in his eare, as ſhal make him deare, ſave only to my eares: caſt ſuch a filme over his eyes, as ſhal make him blind, to my benefit: Lay ſuch a tye uppon his tongue, as to temper it to fit mine owne turne. The like po<g ref="char:EOLhyphen"/>wer it hath over his Smell, Touch, and Taſt; but folly it were in me to take away his feeling, for that is the principall verbe, the primum mobile, the mayne wheele which mooues the reſt of the wheeles.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>And how?</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>O, that by no meanes; for I muſt worke upon that Sub<g ref="char:EOLhyphen"/>iect, only to foole the other foure Senſes, for if a cauſe (be ſuch) be not before felt, it will very difficultly after, be eyther heard or un<g ref="char:EOLhyphen"/>derſtood, and though opened as it ought to be, yet wil not iudge as it ſhould be: and you know maſter Alderman an Aſſe laden with Gold may have admittance into the ſtrongeſt Arcenal.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Maſter <hi>Kilvert,</hi> you are very witty, but proceede, I pray.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>Firſt, you muſt put that into his hand, which may com<g ref="char:EOLhyphen"/>fort his heart, or lay that under his cuſhion, which ſhal never trou<g ref="char:EOLhyphen"/>ble his Conſcience: you know my mind. Iuſtice was wont (when
+<pb n="5" facs="tcp:156876:3"/>
+her ſtatue was to be figured) to be cut out of the whole ſtone, but in theſe dayes it muſt be made up from <hi>peeces.</hi> The ſpectacles they looke through are not made of glaſſe, but gold: and that you know is very ſoverain for the ſight: and they can ſee better with golden eyes then throgh the other brittle and more tranſparant mettle: did you never heare <hi>Bribo</hi> declin'd after the firſt Coniu<g ref="char:EOLhyphen"/>gation?</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Never.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>I eyther read it in a Pamphlet or heard it in a Play) and as I can beſt remember my ſelfe, it was thus: <hi>Bribo, Bribe-aſle</hi> (maſter <hi>Abel) Bribe-bravely, Bribe-and-I, Bribe-and-do, Bribe-and-Dumbe, Bribe-ba-tum, Bribe-ba-tu, Bribans; Bribe-at-your-houſe;</hi> y<hi rend="sup">u</hi> underſtand me ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Yes, very well, I was once a Grammer Scholler my ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>Then but obſerve this courſe (I have it by mine owne Knowledge) your cauſe howſoever corrupt ſhall go on as currant and your ſelfe appeare to be as innocuous: as a Martin mounted in the ayre, a Ducke dabling in the Water, or an innocent Lambe of three ſcore yeares and upwards.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>I am much taken with your Diſcourſe Mc. <hi>Kilvert,</hi> and I know you to be a moſt politicke Proiector, mony is the matter we ayme at, and profit the thing that we only purſue: We know what may be done. Now me thinkes it at that we fixe upon ſome Proiect to be done, and preſently to have it put in practiſe: Thoſe Patents for Caske and for Tobaco, and for Cards, and Dice, with divers others, have already paſt the Seale, but what new reach haue you now by which to inrich us?</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>Give me leave a little to recollect my ſelfe, <hi>hum, hum,—</hi>let me ſee, <hi>Mercers, Goldſmith, Drapers, Grocers,</hi> you are a <hi>Vintner,</hi> M. Alderman, what thinke you of a Monopoly or Patent for Wines, and for dreſſing of meat.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>I doe approve of the proiect exceedingly. But firſt tell me one thing Maſter <hi>Kilvert,</hi> are you a free man of our City?</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>No indeed ſir, but for ſome reaſons beſt reſerved to my ſelf, I would I were.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Let me alone to procure that.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>And then let me alone to extract mony out of your Citty mines; and drawit into our owne purſes.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>And that's profitable proiection: but Maſter <hi>Kilvert,</hi> in ſome things I would intreat you to take my vice (this cough doth ſo trouble me) my adviſe I ſhould have ſayd. Buy then your Freedome in the City, a ſmall quantity of coyne ſhall compaſſe it, and in it you ſhall have my beſt favour and ſur<g ref="char:EOLhyphen"/>therance. Then, you have choyce to be of what Company you moſt fancy: Which I could wiſh to be of the Vintners; of of which Society I am none of the meaneſt members. That done, I wil bring you in to be one of our Livery, and in a ſhort time to be made one of the Aſiſtance; onely you muſt be ſworne is ſecrecy, and not to diſcloſe any myſtery belonging to our Trade, that may be talkt on at the Table.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>To all theſe I ſhall ſubſcribe unto freely. But what thinke you of my former motion, concerning the patent for Wine.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:156876:4"/>
+               <speaker>Abel.</speaker>
+               <p>Indeed you now come cloſe to me, and talke with me in mine owne e<g ref="char:EOLhyphen"/>lement.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>I know you Mr. Alderman to be a man every way <hi>Abel,</hi> ioyne but your purſe with my policy, and if I procure you not a Patent, thinke me to be a meere paltry fellow, and not worth the name of a Proiector: I am nane of thoſe fellowes which were borne in a <hi>Dul-age,</hi> nor do I dwell at <hi>Dul-age;</hi> I am accounted wiſer then ever my father was.</p>
+            </sp>
+            <sp>
+               <speaker>Abel</speaker>
+               <p>Then now Maſter <hi>Kilvert</hi> acquaint me freely with the proiect upon which we may ground the begging of this Patent.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>Marry thus we muſt firſt pretend both in the Merchant and Vintner ſome groſſe abuſes, and theſe no meane ones neyther: for the reforming and rectifying of which, we are Petitioners for this Patent. And that the Mer<g ref="char:EOLhyphen"/>chants ſhall pay to the King forty ſhillings upon every Tun ere hee ſhall vent it to the Vintner: in lieu of which, that the Vintner may be no looſer, he ſhall rarſe the price alſo of his Wines, upon all French Wines a peny in the quart, upon all Spaniſh Wines two pence the quart: it is no matter how the Sub<g ref="char:EOLhyphen"/>iect ſ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffer, ſo we get and gaine by it: Now to cover this our Craft (I will not ſay Conſinage) becauſe all things of the like nature carry a pretence for the Kings profit: ſo we will allow him a competent proportion of forty thouſand pound per annum. When the power of the Patent being punctually executed, will yeild double at leaſt, if not treble that ſumme, and returne it into the Co<g ref="char:EOLhyphen"/>fers of the undertakers.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Let me hugge thee my <hi>Kilvert;</hi> But who do you thinke to be the fit<g ref="char:EOLhyphen"/>teſt man to draw this Patent to the purpoſe for fear of over ſight or miſtake?</p>
+            </sp>
+            <sp>
+               <speaker>Kilv</speaker>
+               <p>Who but Mr. Low that lives in <hi>Great S. Bartholmews,</hi> one mightily <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ried up for his Chamber Counſell: Let him but have a ſound feeling in the fiſt, and then fortune for the French, and fico for the Spaniard.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>My delicate and dainty <hi>Kilvert,</hi> thou ſhalt ever hereafter be in my Bookes: and no ſooner ſhall this Patent be ſign'd and ſeal'd, but for thy pains and advice, thou ſhalt have ſeaven hundred pound in hand, and two hundred peeces per annum during the date of this Patent.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>Moſt ſweet and well ſounding <hi>Abel,</hi> every way able both in promiſe and performance: if I fayle in the proſecuting of this Patent, may I periſh, and ſuffer hereafter ſome exemplary puniſhment.</p>
+            </sp>
+            <sp>
+               <speaker>Abel</speaker>
+               <p>But in all this, we never dreampt of a Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>Tuſh, feare not that, we muſt have ſome great men to have a feeling in the cauſe; and by that meanes backe us: but you ſee the ſtreame roares con<g ref="char:EOLhyphen"/>trary: but ſay one were cald, I am a man Parliament proofe, and no <hi>Moun<g ref="char:EOLhyphen"/>parſons.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>But thinke you the Commons will not mutter and repine at this?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:156876:4"/>
+               <speaker>Kilv.</speaker>
+               <p>Let the monſter multitude murmur, what need we to care? beeing poſſeſt of the Caſh: Foxes and Crowes fare beſt, when they be curſt: and ſo I hope ſhall We: for when We ſhall ſit in Commiſſion, and have our Ref<g ref="char:EOLhyphen"/>ferrées, Adviſers, Sharers, Complotters and Contractors about us, with full power and authority to countenance them, whom need we fear, or be afraid of.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Mr. <hi>Kilvert,</hi> I honor thee before all the Feaſts in our Hall, nay we are free Vintners, and brothers of the Quill, and are for the moſt part true Troians, and know where to find the beſt Buts of Wine in the Seller, and wil pierce them for thee, it ſhall be pure Wine from the Grape, not mixt &amp; compounded, but reall and brisk: you thinke there is no Brewers but ſuch as <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew Ale and Beere, I tel you we do brew and cunger in our Sellers, as much as any Brewer of them all, yea and without fire too, but ſo much for that. Me thinkes I ſee my ſelfe in Cheap ſide upon an Horſe richly capariſon'd, and my two Shrieves to attend me: and me thinkes thee in thy Ca<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>och drawne by foure horſes, and ſhall call to thee, and ſay friend <hi>Kilvert,</hi> give me thine hand, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>
+                  <hi>To which I ſhall anſwer, God bleſſe your Honour my good Lord Maior, &amp;c.</hi>
+               </p>
+               <p>This and the like diſcourſe at meeting, and complement at parting, paſt be<g ref="char:EOLhyphen"/>twixt them. What effect their Project took, is known to all, and with what power (without pitty) they executed the fore of their Patent, what charge &amp; trouble divers of the beſt Vintners about the Town were put too both by fines and commitments: The miſery they ſuffered by the Medium Wines and the like: But now (God be prayſed) the Tyde is turn'd: And ſince that Edict concerning the price of wines was publiſhed in print, bearing date, the twen<g ref="char:EOLhyphen"/>ty ſixt day of <hi>May</hi> laſt paſt: wherein the aforeſayd Alderman <hi>Abel,</hi> and <hi>Ri<g ref="char:EOLhyphen"/>chard Kilvert</hi> were by name brought within the compaſſe of exemplary pu<g ref="char:EOLhyphen"/>niſhment, for which act of theirs, as they made their poore brother Vintners purſes and hearts ake, ſo now I feare this newes will make their heads ake, if not their neckes crack.</p>
+               <p>Since which time they had an other accidentall interview, at which ſome language, but differing in phraſe from the former, paſt betwixt them to this purpoſe. Now imagine they are met, and their firſt ſalutation was by M. <hi>Abel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>
+                  <hi>Kilvert,</hi> Thou art a Knave. I ſay ſirrah thou art a cunning Knave.</p>
+            </sp>
+            <sp>
+               <speaker>Klv.</speaker>
+               <p>Setting your Worſhipaſide, you are but a plain Pattentee, and all ſuch are cald by a Word that begins with the firſt letter of my name.</p>
+               <p>Mris.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Sirrah raſcal, I ſay ſo as my husbands ſays you are a Knave, and a whore-maſter Knave, and a very ſlye crafty Knaue.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>And I tell you Miſtris <hi>Abel,</hi> your husband hath made mee a brother of his Company; and you Mr. <hi>Abel,</hi> promiſeſt when you met in Cheape ſide, to take me by the hand.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Of all men living I am bound to curſe thee.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>I confeſſe you to be <hi>A-bel,</hi> but you cannot curſe me in the true kinde, without a Book and a candle.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:156876:5"/>
+               <speaker>Abel.</speaker>
+               <p>I hope to ſee thee hang'd.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>Indeed a Bell cannot bee rung in tune till it be ſo. Mris.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Sirra do you know to whom you ſpeak.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>You are Parliament proofe with a pox.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>But who the pox would have thought of a Parliament ſo ſoone?</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>I would I had kept my Tavern ſtill in old Fiſh-ſtreet, for then I was counted an honeſt man.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>Yea, to have tooke a way the ſigne of the Ship, and to have had a <hi>Bel</hi> hang'd in the roome of it.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>Thou haſt bin mine undoing.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>And you mine: for as our faults are alike, ſo I am afraid our fates will be equall.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>All this was by thy proiects and policy.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>True M. Alderman, but countenanc'd by your purſe &amp; authority.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>
+                  <hi>Kilvert,</hi> thou haſt bin cald <hi>kill-Vertue, kill-B<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nnet, kill-Biſhop,</hi> and <hi>kil-Fart,</hi> and now <hi>kill Abell,</hi> and I hope thou wilt Kil-thy ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>Take heed to your ſelfe, that you do not goe to the Divell quicke.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>If I do? it is of thy driving. I tell thee <hi>Kilvert</hi> thou art worſe then Caine.</p>
+            </sp>
+            <sp>
+               <speaker>Kilv.</speaker>
+               <p>
+                  <hi>Indeed, we read that in-old time</hi> Caine <hi>Kild</hi> Abel, <hi>but now</hi> Abell <hi>Kils</hi> Caine; <hi>and I am afraid thére is a young</hi> Gregory <hi>born to make an end of us both.</hi>
+               </p>
+               <p>By this a great Company of people were gathered about them, which made them part for the preſent: their next meeting is to bee expected either at the Barre where they are to be arraigned, or the place appointed for their puniſh<g ref="char:EOLhyphen"/>ment.</p>
+               <p>The manner and forme how Projectors and Patentees have rode a Tylting in a Parliament time.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <p>
+               <figure>
+                  <p>Tar-ar-ra-ra-</p>
+                  <figDesc>man seated backwards on horse</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
